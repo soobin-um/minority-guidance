@@ -1,6 +1,6 @@
 # Don't Play Favorites: Minority Guidance for Diffusion Models (ICLR 2024)
 
-Soobin Um, Suhyeon Lee, and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+[Soobin Um](https://soobin-um.github.io/), Suhyeon Lee, and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
 
 This repository contains the official code for the paper "Don't Play Favorites: Minority Guidance for Diffusion Models" (ICLR 2024).
 
