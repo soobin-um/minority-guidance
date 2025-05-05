@@ -96,10 +96,11 @@ Note that ```[your_clf_path]``` should be the checkpoint name of the minority cl
 ## Citation
 If you find this repository useful, please cite our paper:
 ```
-@article{um2023don,
+@inproceedings{um2024dont,
   title={Don't Play Favorites: Minority Guidance for Diffusion Models},
-  author={Um, Soobin and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2301.12334},
-  year={2023}
+  author={Soobin Um and Suhyeon Lee and Jong Chul Ye},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=3NmO9lY4Jn}
 }
 ```
